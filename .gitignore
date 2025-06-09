@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# User-specific settings
+# Uncomment if you want to exclude personal settings
+# settings.txt
+
+# Sample images
+sample_photos/

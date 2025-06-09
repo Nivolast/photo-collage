@@ -1,0 +1,9 @@
+# Photo Collage Settings
+# Edit these settings to customize your collage
+
+number=6
+photos_directory=./sample_photos
+width=15360
+height=8640
+text=Years Anniversary
+refresh_interval=3600
